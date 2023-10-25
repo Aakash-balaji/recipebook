@@ -1,0 +1,73 @@
+/* main{
+    text-align:center;
+} */
+/* h1{
+    height: 40px;
+    font-weight:700px;
+} */
+div{
+    border:solid 1px;
+}
+/* .flex-container {
+    display: flex;
+    flex-wrap: nowrap;
+    
+  } */
+
+h2{
+    
+    text-align: center;
+    font-size: 60px;
+    font-family: italic;
+}
+
+#topdiv{
+    display: flex;
+    justify-content: space-around;
+    
+    
+}
+
+#img{
+    border: none;
+}
+/* #hero-img{
+    background-image:url(../assets/media/images/mainimg.png);
+    height: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+} */
+#main{
+   text-align: center;
+   width: 100%;
+}
+
+body{
+    background-color: #F2F4F3;
+}
+
+/* #toprepicies{
+    background-color: #91972A;
+
+
+}
+
+#vegBriyani{
+    background-color: #D8D174;
+} */
+img{
+    border-radius: 5px;
+}
+H1{
+    background-color: #B9BAB8;
+    margin-top: 0;
+}
+
+aside{
+    padding: 5px;
+    height: 100vh;
+    
+}
+
